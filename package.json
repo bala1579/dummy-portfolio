@@ -2,8 +2,8 @@
   "name": "kiran-assignment-portfolio",
   "private": true,
   "version": "0.0.0",
-  "source": "src/index.html",
-  "homepage": "https://bala1579.github.io",
+  
+  "homepage": "https://bala1579.github.io/dummy-portfolio/",
 
   "type": "module",
   "scripts": {
